@@ -152,10 +152,4 @@ public class Supermercado {
         return con;
     }
 }
-/*
-*Integrantes:
-*   Ramiro G. Carmona Damico
-*   Ricardo Padilla Rosete
-*   David Santiago Porras
-*   Manuel Hernandez de la Rosa
- */
+
